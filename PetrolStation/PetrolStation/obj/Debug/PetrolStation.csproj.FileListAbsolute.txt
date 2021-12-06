@@ -1,0 +1,28 @@
+C:\Users\Adedapo Adejonwo\source\repos\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe.config
+C:\Users\Adedapo Adejonwo\source\repos\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe
+C:\Users\Adedapo Adejonwo\source\repos\PetrolStation\PetrolStation\bin\Debug\PetrolStation.pdb
+C:\Users\Adedapo Adejonwo\source\repos\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csprojResolveAssemblyReference.cache
+C:\Users\Adedapo Adejonwo\source\repos\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csproj.CoreCompileInputs.cache
+C:\Users\Adedapo Adejonwo\source\repos\PetrolStation\PetrolStation\obj\Debug\PetrolStation.exe
+C:\Users\Adedapo Adejonwo\source\repos\PetrolStation\PetrolStation\obj\Debug\PetrolStation.pdb
+F:\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe.config
+F:\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe
+F:\PetrolStation\PetrolStation\bin\Debug\PetrolStation.pdb
+F:\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csprojResolveAssemblyReference.cache
+F:\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csproj.CoreCompileInputs.cache
+F:\PetrolStation\PetrolStation\obj\Debug\PetrolStation.exe
+F:\PetrolStation\PetrolStation\obj\Debug\PetrolStation.pdb
+H:\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe.config
+H:\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe
+H:\PetrolStation\PetrolStation\bin\Debug\PetrolStation.pdb
+H:\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csprojResolveAssemblyReference.cache
+H:\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csproj.CoreCompileInputs.cache
+H:\PetrolStation\PetrolStation\obj\Debug\PetrolStation.exe
+H:\PetrolStation\PetrolStation\obj\Debug\PetrolStation.pdb
+C:\Users\adejo\Desktop\ARU Schoolwork\intro to prog\Disc\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe.config
+C:\Users\adejo\Desktop\ARU Schoolwork\intro to prog\Disc\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe
+C:\Users\adejo\Desktop\ARU Schoolwork\intro to prog\Disc\PetrolStation\PetrolStation\bin\Debug\PetrolStation.pdb
+C:\Users\adejo\Desktop\ARU Schoolwork\intro to prog\Disc\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csprojAssemblyReference.cache
+C:\Users\adejo\Desktop\ARU Schoolwork\intro to prog\Disc\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csproj.CoreCompileInputs.cache
+C:\Users\adejo\Desktop\ARU Schoolwork\intro to prog\Disc\PetrolStation\PetrolStation\obj\Debug\PetrolStation.exe
+C:\Users\adejo\Desktop\ARU Schoolwork\intro to prog\Disc\PetrolStation\PetrolStation\obj\Debug\PetrolStation.pdb

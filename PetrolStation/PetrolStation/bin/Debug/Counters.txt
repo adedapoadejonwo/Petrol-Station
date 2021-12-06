@@ -1,0 +1,36 @@
+Here are the counters for this app
+
+1) Total litres of fuel dispensed: 134.7495
+2) Total Earnings: 255.438
+3) Total Commission: 2.55438
+4) Number of Cars Serviced: 5
+5) Number of Not Serviced: 0
+6) Total litres of LPG Fuel dispensed: 28.122
+7) Total litres of Diesel Fuel dispensed: 106.6275
+8) Total litres of Unleaded Fuel dispensed: 0
+
+Pump Number: 1
+Car ID: 0
+Vehicle Type: Van
+Number Of Litres: 28.122
+
+Pump Number: 2
+Car ID: 1
+Vehicle Type: Van
+Number Of Litres: 26.229
+
+Pump Number: 3
+Car ID: 2
+Vehicle Type: Car
+Number Of Litres: 28.2525
+
+Pump Number: 4
+Car ID: 3
+Vehicle Type: HGV
+Number Of Litres: 26.073
+
+Pump Number: 5
+Car ID: 4
+Vehicle Type: HGV
+Number Of Litres: 26.073
+
